@@ -1,0 +1,22 @@
+extends layout.pug
+
+block content
+
+  article.portfolio-intro
+
+     
+    h1 My Awesome Portfolio
+
+    
+    p Below are some real-world esque projects I've done to display my skills in Javascript Full Stack code.
+
+
+  article.portfolio-project-thumbs
+    .projects-box.box.grid
+
+      each project in projects
+       .cell
+          a(href=`projects/${project.id}`)
+            img.thumbnail(src=`${project.images_uurls[0]}`, alt='')
+            h5= project.project_name 
+

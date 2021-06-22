@@ -1,0 +1,51 @@
+{
+    "project": [
+      {
+          "id": 0,
+          "project_name": "Random-Quote-Generator" ,
+          "description": "Prints out Random Quotes",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "live_link": "https://kaseyswokowski.github.io/kaseyswokowski.github-io-RQG/",
+          "github_link": "https://github.com/kaseyswokowski/Random-Quote-GeneratorProject1" ,
+          "image_urls": ["/static/images/project1-1.png", "/static/images/project1-2.png", "/static/images/project1-3.png"]
+      },
+      {
+        "id": 1,
+          "project_name": "Data-Pagination-and-Filtering-Project",
+          "description": "Add navigation to look through 42 students",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "live_link": "https://kaseyswokowski.github.io/kaseyswokowski.github.io-DPaF/",
+          "github_link": "https://github.com/kaseyswokowski/kaseyswokowski-Data-Pagination-and-Filtering-Project-2",
+          "image_urls": ["/static/images/project2-1.png", "/static/images/project2-2.png", "/static/images/project2-3.png"]
+    },
+    {
+        "id": 2,
+          "project_name": "Interactive form",
+          "description": "Use Javascript to make the form more user-friendly",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "live_link": "https://kaseyswokowski.github.io/kaseyswokowski.github.io-InteractiveForm/",
+          "github_link": "https://github.com/kaseyswokowski/InteractiveForm",
+          "image_urls": ["/static/images/interactiveform1.png", "/static/images/interactiveform2.png", "/static/images/interactiveform3.png"]
+    },
+    {
+        "id": 3,
+        "project_name": "OOP Game Show",
+        "description": "Created a browser-based word guessing game",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://kaseyswokowski.github.io/kaseyswokowski.github.io-OOPGameShowApp/",
+        "github_link": "https://github.com/kaseyswokowski/OOPGameShowApp",
+        "image_urls": ["/static/images/project4-1.png", "/static/images/project4-2.png", "/static/images/project4-3.png"]
+    },
+    {
+        "id": 4,
+        "project_name": "Public API Request",
+        "description": "An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://kaseyswokowski.github.io/kaseyswokowski.github.io-PublicApi/",
+        "github_link": "https://github.com/kaseyswokowski/PublicApiRequest",
+        "image_urls": ["/static/images/project5-1.png", "/static/images/project5-2", "/static/images/project5-3"]
+    }
+    ]
+  }
+
+  
